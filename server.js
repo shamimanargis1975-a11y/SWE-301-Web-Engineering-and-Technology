@@ -1,1 +1,1 @@
-console.log("The server is running on PORT 3000")
+console.log("The server is not running")
